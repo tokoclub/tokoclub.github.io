@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tokoclub.github.io</id>
     <title>tokoclub</title>
-    <updated>2022-04-01T09:27:37.442Z</updated>
+    <updated>2022-04-01T09:30:54.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tokoclub.github.io"/>
     <link rel="self" href="https://tokoclub.github.io/atom.xml"/>
-    <subtitle>welcome to tokoclub!</subtitle>
+    <subtitle>莫·慢·待</subtitle>
     <logo>https://tokoclub.github.io/images/avatar.png</logo>
     <icon>https://tokoclub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, tokoclub</rights>
