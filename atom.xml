@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tokoclub.github.io</id>
     <title>tokoclub</title>
-    <updated>2022-04-04T04:45:13.812Z</updated>
+    <updated>2022-04-04T05:01:06.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tokoclub.github.io"/>
     <link rel="self" href="https://tokoclub.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://tokoclub.github.io/images/avatar.png</logo>
     <icon>https://tokoclub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, tokoclub</rights>
+    <entry>
+        <title type="html"><![CDATA[关于 tokoclub]]></title>
+        <id>https://tokoclub.github.io/post/about/</id>
+        <link href="https://tokoclub.github.io/post/about/">
+        </link>
+        <updated>2022-04-01T12:13:30.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>你好(ﾉ:´▽｀·)ﾉ♪<br>
+欢迎来到 <strong>tokoclub</strong> ！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>你好(ﾉ:´▽｀·)ﾉ♪<br>
+欢迎来到 <strong>tokoclub</strong> ！</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【DL】伯远翻唱音频汇总（更新至0326）]]></title>
         <id>https://tokoclub.github.io/post/dl-bo-yuan-fan-chang-yin-pin-hui-zong-geng-xin-zhi-272-shou/</id>
@@ -55,6 +72,17 @@
         <content type="html"><![CDATA[<blockquote>
 <p>一如既往的温柔之外，是透过外界不同声音的一遍遍自我审视。逐渐瓦解身份的围城，带来平衡与秩序感的双重构建。</p>
 </blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【采访】对话伯远：唱跳之外，我想做一个真实的自己]]></title>
+        <id>https://tokoclub.github.io/post/rLEG0Wm7K/</id>
+        <link href="https://tokoclub.github.io/post/rLEG0Wm7K/">
+        </link>
+        <updated>2021-10-04T04:46:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>《创造营2021》第一次排名公布结束后，伯远在人群的角落里找到了被淘汰的赖耀翔。他泣不成声，反复地问伯远：“我不够努力吗？为什么？我都不知道该怎么做……”</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《创造营2021》第一次排名公布结束后，伯远在人群的角落里找到了被淘汰的赖耀翔。他泣不成声，反复地问伯远：“我不够努力吗？为什么？我都不知道该怎么做……”</p>
 ]]></content>
     </entry>
     <entry>
