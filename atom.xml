@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tokoclub.github.io</id>
     <title>tokoclub</title>
-    <updated>2022-04-26T09:20:32.893Z</updated>
+    <updated>2022-04-26T09:46:31.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tokoclub.github.io"/>
     <link rel="self" href="https://tokoclub.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://tokoclub.github.io/images/avatar.png</logo>
     <icon>https://tokoclub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, tokoclub</rights>
+    <entry>
+        <title type="html"><![CDATA[【DL】伯远多次翻唱音频汇总（共35首）]]></title>
+        <id>https://tokoclub.github.io/post/OyMAA377K/</id>
+        <link href="https://tokoclub.github.io/post/OyMAA377K/">
+        </link>
+        <updated>2022-04-26T09:25:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>这个链接整理的是小汤同一首歌不同的翻唱版本(´･ᴗ･`)</p>
+<p>一部分是短时间内多次翻唱，另一部分有较长的时间跨度。<br>
+总之小汤在不同时间与状态下的唱功和心境大概都能体现吧~</p>
+<p>对啦，35首是重复翻唱的<strong>曲目数量</strong>，DL里<strong>总计是85首</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这个链接整理的是小汤同一首歌不同的翻唱版本(´･ᴗ･`)</p>
+<p>一部分是短时间内多次翻唱，另一部分有较长的时间跨度。<br>
+总之小汤在不同时间与状态下的唱功和心境大概都能体现吧~</p>
+<p>对啦，35首是重复翻唱的<strong>曲目数量</strong>，DL里<strong>总计是85首</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【DL】伯远翻唱音频汇总（更新至0425）]]></title>
         <id>https://tokoclub.github.io/post/dl-bo-yuan-fan-chang-yin-pin-hui-zong-geng-xin-zhi-272-shou/</id>
@@ -156,21 +173,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>本采访完整内容为视频采访，以下内容摘自采访者概述，有删改。</p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Wonderland】INTO1伯远 音乐，是我的秘籍]]></title>
-        <id>https://tokoclub.github.io/post/pNThNPlau/</id>
-        <link href="https://tokoclub.github.io/post/pNThNPlau/">
-        </link>
-        <updated>2021-12-31T12:21:49.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>少时种下的种子，要经过多少时间才能开出一朵花？即使很久也没关系，对伯远来说，在悠长的人生旅途里，只要音乐尚在，就是解忧的秘籍。</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>少时种下的种子，要经过多少时间才能开出一朵花？即使很久也没关系，对伯远来说，在悠长的人生旅途里，只要音乐尚在，就是解忧的秘籍。</p>
 </blockquote>
 ]]></content>
     </entry>
