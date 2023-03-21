@@ -2,14 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tokoclub.github.io</id>
     <title>tokoclub</title>
-    <updated>2022-04-26T10:00:53.577Z</updated>
+    <updated>2023-03-21T07:31:22.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tokoclub.github.io"/>
     <link rel="self" href="https://tokoclub.github.io/atom.xml"/>
     <subtitle>莫·慢·待</subtitle>
     <logo>https://tokoclub.github.io/images/avatar.png</logo>
     <icon>https://tokoclub.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, tokoclub</rights>
+    <rights>All rights reserved 2023, tokoclub</rights>
+    <entry>
+        <title type="html"><![CDATA[【伊周】INTO1 伯远，梦旅人远航中]]></title>
+        <id>https://tokoclub.github.io/post/85ErUpou9/</id>
+        <link href="https://tokoclub.github.io/post/85ErUpou9/">
+        </link>
+        <updated>2023-02-11T06:13:16.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>“我们都曾急于逃出围墙寻找信仰，踏上认定的道路，左右游离，满打满撞，都是青春岁月里必然要经历的困扰。”这是《梦旅人》的一则影评，我们用它来比作追逐梦路上所遭遇的坎坷，谁的青春没有拥有过想逃离围墙朝梦航行的时刻？INTO1伯远（以下统称伯远）也不例外成为了“梦的旅人”，但和影中结局不同的是，他将梦即愿望的结果达成。而在多年的航行过程中，那些彷徨或迷茫，早已消失在名为“热爱”的灯塔发出的光芒里。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>“我们都曾急于逃出围墙寻找信仰，踏上认定的道路，左右游离，满打满撞，都是青春岁月里必然要经历的困扰。”这是《梦旅人》的一则影评，我们用它来比作追逐梦路上所遭遇的坎坷，谁的青春没有拥有过想逃离围墙朝梦航行的时刻？INTO1伯远（以下统称伯远）也不例外成为了“梦的旅人”，但和影中结局不同的是，他将梦即愿望的结果达成。而在多年的航行过程中，那些彷徨或迷茫，早已消失在名为“热爱”的灯塔发出的光芒里。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【DL】伯远多次翻唱音频汇总（共35首）]]></title>
         <id>https://tokoclub.github.io/post/OyMAA377K/</id>
@@ -152,21 +167,6 @@
         <link href="https://tokoclub.github.io/post/4EP726w82/">
         </link>
         <updated>2022-02-12T11:27:10.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>本采访完整内容为视频采访，以下内容摘自采访者概述，有删改。</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>本采访完整内容为视频采访，以下内容摘自采访者概述，有删改。</p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AKA桃叨叨 】INTO1的春节怎么过？｜新春特辑]]></title>
-        <id>https://tokoclub.github.io/post/VIHLUcq2a/</id>
-        <link href="https://tokoclub.github.io/post/VIHLUcq2a/">
-        </link>
-        <updated>2022-02-04T11:45:07.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>本采访完整内容为视频采访，以下内容摘自采访者概述，有删改。</p>
 </blockquote>
